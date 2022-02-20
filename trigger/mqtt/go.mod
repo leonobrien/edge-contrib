@@ -1,4 +1,4 @@
-module github.com/project-flogo/edge-contrib/trigger/mqtt
+module github.com/leonobrien/edge-contrib/edit/master/trigger/mqtt
 
 go 1.12
 

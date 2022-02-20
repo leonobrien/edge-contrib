@@ -1,4 +1,4 @@
-module github.com/leonobrien/edge-contrib/edit/master/trigger/mqtt
+module github.com/leonobrien/edge-contrib/trigger/mqtt
 
 go 1.12
 
